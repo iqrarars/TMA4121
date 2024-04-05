@@ -1,3 +1,5 @@
+#written by Line Magerholm and Iqra Arshad 
+
 import numpy as np
 import matplotlib.pyplot as plt
 
